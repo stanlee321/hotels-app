@@ -78,6 +78,28 @@ Establecer un diseño visual limpio, moderno y coherente, inspirado en el estilo
    - **Forma:** Bordes redondeados (radio de 8px).
    - **Estado Hover:** Fondo ligeramente translúcido (`#008489` con opacidad 10%).
 
+### **Botones y Acciones**
+
+#### **Botones Primarios**
+- Color de fondo: #FF385C (Rojo Airbnb)
+- Texto: Blanco
+- Bordes redondeados: 8px
+- Sin elevación
+- Padding vertical: 12-16px
+
+#### **Botones Secundarios**
+- Color de fondo: #333333 con 80% opacidad
+- Texto: Blanco
+- Bordes redondeados: 8px
+- Sin elevación
+- Padding vertical: 16px
+- Uso: Acciones complementarias como "Enviar PDF", "Exportar", etc.
+
+#### **Botones de Texto**
+- Color: #717171 (Gris neutro)
+- Sin fondo
+- Padding horizontal: 16px
+
 ---
 
 ### **Tarjetas**
